@@ -1,10 +1,13 @@
 _repo: A-History-of-Story-telling-Studies-in-the-development-of-narrative_62129
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Gavin, J.
     gutenberg_agent_id: '51784'
     url: http://www.gutenberg.org/2009/agents/51784
+covers:
+- cover_type: archival
+  image_path: 62129-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Ransome, Arthur
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/601
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Ransome
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62129#A-History-of-Story-telling-Studies-in-the-development-of-narrative
 gutenberg_issued: '2020-05-14'
 gutenberg_type: Text
 identifiers:
