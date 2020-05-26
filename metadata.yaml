@@ -1,0 +1,40 @@
+_repo: A-History-of-Story-telling-Studies-in-the-development-of-narrative_62129
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gavin, J.
+    gutenberg_agent_id: '51784'
+    url: http://www.gutenberg.org/2009/agents/51784
+creator:
+  author:
+    agent_name: Ransome, Arthur
+    birthdate: 1884
+    deathdate: 1967
+    gutenberg_agent_id: '601'
+    url: http://www.gutenberg.org/2009/agents/601
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Ransome
+description: ''
+gutenberg_issued: '2020-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction -- History and criticism'
+- !lcsh 'Narration (Rhetoric)'
+- !lcsh 'Storytelling -- History'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: 'Origins -- ''The romance of the rose'' -- Chaucer and Boccaccio
+  -- The rogue novel -- The Elizabethans -- The pastoral -- Cervantes -- The essayists''
+  contribution to story-telling -- Transition: Bunyan and Defoe -- Richardson and
+  the feminine novel -- Fielding, Smollett, and the masculine novel -- A note on Sterne
+  -- Chateaubriand and Romanticism -- Scott and Romanticism -- The Romanticism of
+  1830 -- Balzac -- Gautier and the East -- Poe and the new technique -- Hawthorne
+  and moral romance -- Mérimée and conversational story-telling -- Flaubert -- A note
+  on De Maupassant -- Conclusion.'
+title: 'A History of Story-telling: Studies in the development of narrative'
+url: http://www.gutenberg.org/ebooks/62129
